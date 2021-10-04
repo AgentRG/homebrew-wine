@@ -1,7 +1,7 @@
 # homebrew-wine
 A fork of [Gcenx's wine](https://github.com/Gcenx/homebrew-wine) (As of October 3rd, 2021). This repository contains a single Wine cask/formula that's intended to be used with [SWTOR On Mac](https://github.com/AgentRG/swtor_on_mac) since the current official Wine macOS build does not work with SWTOR.
 
-[![Github All Releases](https://img.shields.io/github/releases/agentrg/swtor_on_mac/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/agentrg/swtor_on_mac/total.svg)]()
 
 ### Contains
 * `agentrg-wine-staging`
