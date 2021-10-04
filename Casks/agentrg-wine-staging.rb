@@ -2,7 +2,7 @@ cask 'agentrg-wine-staging' do
   version '6.18'
   sha256 "b2e378b8228b88b7ad9c6b1bc41b3ef1a8011a035a69235ce9ff1677ee500dfe"
 
-  url "https://github.com/AgentRG/swtor_on_mac/releases/releases/download/#{version}/wine-staging-#{version}-osx64.tar.xz"
+  url "https://github.com/AgentRG/swtor_on_mac/releases/download/#{version}/wine-staging-#{version}-osx64.tar.xz"
 
   name 'Wine-staging'
   homepage 'https://github.com/AgentRG/swtor_on_mac'
