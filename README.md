@@ -5,7 +5,6 @@ A fork of [Gcenx's wine](https://github.com/Gcenx/homebrew-wine) (As of October 
 
 ### Contains
 * `agentrg-wine-stable`
-* `6.0-crossover`
 
 ### Requirements
 All dependencies are included inside the package Only supports macOS High Sierra / Mojave.
