@@ -1,8 +1,8 @@
 cask 'agentrg-wine-stable' do
-  version '6.0.2-stable-osx64'
+  version 'wine-stable-6.0.2'
   sha256 "b3dbbdeb43726c25e14fe5aa84d1c976d881bdce914aa1fe791ccf804b54e4c0"
 
-  url "https://github.com/AgentRG/swtor_on_mac/releases/download/#{version}/wine-stable-#{version}-osx64.tar.xz"
+  url "https://github.com/AgentRG/swtor_on_mac/releases/download/#{version}/{version}-osx64.tar.xz"
 
   name 'Wine-stable'
   homepage 'https://github.com/AgentRG/swtor_on_mac'
