@@ -6,7 +6,7 @@ cask 'agentrg-wine-stable' do
 
   name 'Wine-stable'
   homepage 'https://github.com/AgentRG/swtor_on_mac'
-  desc "Compatibility layer to run Windows applications"
+  desc "Clone of Gcenx stable Wine build. Compatibility layer to run Windows applications"
 
   depends_on formula: 'xz'
 
